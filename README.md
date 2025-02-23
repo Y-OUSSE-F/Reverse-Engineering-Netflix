@@ -8,7 +8,7 @@ This project is my attempt to analyze and reconstruct a simplified version of Ne
 **Media Catalog:** Organizes information about movies and series, including genres, ratings, and metadata.
 **Watch Records & Analytics:** Logs viewing habits, including watch duration, time of day, and device usage.
 
-##Database Structure
+## Database Structure
 **The project is built using a relational database model, containing the following entities:**
 
 Customer (CustomerID, Full_Name, Email, Birth_Date, Billing_Address, CreditCardNo)
