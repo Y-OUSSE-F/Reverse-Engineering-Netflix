@@ -3,10 +3,10 @@
 This project is my attempt to analyze and reconstruct a simplified version of Netflix’s database using SQL. The goal is to understand the logical structure of Netflix's database system and implement a well-defined relational schema based on theoretical assumptions.
 
 ## Features
-**Customer and Subscription Management:** Tracks users, subscriptions, and payment records.
-**Profile and Device Tracking:** Stores data on user profiles and the devices they use.
-**Media Catalog:** Organizes information about movies and series, including genres, ratings, and metadata.
-**Watch Records & Analytics:** Logs viewing habits, including watch duration, time of day, and device usage.
+- **Customer and Subscription Management:** Tracks users, subscriptions, and payment records.
+- **Profile and Device Tracking:** Stores data on user profiles and the devices they use.
+- **Media Catalog:** Organizes information about movies and series, including genres, ratings, and metadata.
+- **Watch Records & Analytics:** Logs viewing habits, including watch duration, time of day, and device usage.
 
 ## Database Structure
 **The project is built using a relational database model, containing the following entities:**
